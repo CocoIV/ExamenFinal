@@ -1,0 +1,67 @@
+
+Parte 1. Desarollo téorico. 12 pts
+
+Lista de Preguntas Seleccione 4 de ellas unicamente.
+
+1. [3 pts] ¿Qué es la herencia en Java y cómo se implementa? 
+Proporcione un ejemplo práctico de una clase que hereda de otra, 
+y explica la relación entre la clase padre e hija.
+
+R/ Las herencias en java se componen por una clase padre e hija, en esta relacion la clase 
+padre le hereda atributos y metodos a la clase hija para asi poder ejecutar la funcion  
+que se quiere que realice el codigo.
+EJEMPLO:
+        Una clase llamada "Tipo_Pokemon" le hereda a la clase pokemon todos los metodos y atributos 
+que le da la caracteristica a cada pokemon para asi saber si es por ejemplo tipo agua, tierra, acero o algun otro, 
+asi saber si es debil o fuerte contra algun otro tipo.  
+
+
+
+
+2.[3 pts] Explique el concepto de polimorfismo en Java. 
+Proporcione un ejemplo concreto utilizando métodos y explique cómo 
+el polimorfismo facilita el diseño de programas flexibles y extensibles.
+
+R/El polimorfismo se puede usar de diferentes manera ya que un mismo polimorfismo se puede 
+usar en mas de un proceso diferente para asi ahorrar espacio en el codigo y asi no tener que 
+definir la misma o muchas variables iguales en todo el codigo.
+
+
+
+3.[3 pts] ¿Cuál es el propósito de una clase abstracta en Java? 
+Proporciona un ejemplo de una clase abstracta y explica cómo se diferencia
+ de una clase regular.
+
+R/Una clase abstracta 
+
+
+
+
+4.[3 pts] Describa cómo se pueden leer y escribir datos en archivos en Java. 
+Menciona la importancia de manejar excepciones en este contexto.
+
+
+R/
+
+
+
+5.[3 pts] Explica el concepto de recursividad en Java. 
+Proporciona un ejemplo de una función recursiva y discute cómo funciona,
+ así como las precauciones que deben tomarse al utilizar la recursividad.
+
+
+R/La recuersividad se basa en la disminucion de codigo para hacerlo de una manera mas efectiva 
+y practica para que funcione de una manera mucho mas rapida y efectiva al momento de ejecutar el proyecto
+EJEMPLO:
+        Cuando se crea un codigo para saber el funcion de un numero se puede hacer un (n-1) 
+para que se que vaya restando 1 a 1 hasta encontrar el numero adecuado para comparar si el numero es
+igual a la funcion o si tiene que seguir restando uno hasta llegar al adecuado.
+
+
+6.[3 pts] ¿Cómo se gestiona dinámicamente la memoria en Java? 
+Explica cómo Java aborda la liberación de memoria.
+
+
+R/
+
+
